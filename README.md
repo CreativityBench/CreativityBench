@@ -147,10 +147,11 @@ export VLLM_BASE_URL="http://localhost:8000/v1"
 - All stage runners are relative-path based and avoid machine-specific hard-coded `.env` sourcing.
 
 ## 📚 Citation
-
+```
 @article{qian2026creativitybench,
   title={CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing},
   author={Qian, Cheng and Ha, Hyeonjeong and Liu, Jiayu and He, Bingxiang and Kim, Jeonghwan and Liu, Jiateng and Li, Bingxuan and Tiwari, Aditi and Dalal, Dwip and Wang, Zhenhailong and Chen, Xiusi and Namazifar, Mahdi and Li, Yunzhu and Ji, Heng},
   journal={arXiv preprint arXiv:XXX},
   year={2026}
 }
+```
