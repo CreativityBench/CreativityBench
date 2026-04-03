@@ -1,9 +1,10 @@
-<div style="display: grid; grid-template-columns: 50px 1fr; column-gap: 12px; align-items: start;">
-  <img src="assets/logo.jpg" alt="CreativityBench logo" style="width: 60px; margin-top: 6px;">
-  <h1 style="margin: 0; line-height: 1.15;">
-    CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
-  </h1>
-</div>
+<p align="center">
+  <img src="assets/logo.jpg" alt="CreativityBench logo" width="40">
+  <img src="assets/logo.jpg" alt="CreativityBench logo" width="60">
+  <img src="assets/logo.jpg" alt="CreativityBench logo" width="80">
+</p>
+
+# CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
 
 [**📊 Dataset**](https://drive.google.com/file/d/1nQ1p2S4dxTBVZfAvlCW7YPLxztRtPnke/view?usp=sharing) | [**📖 Paper**](TBD) 
 <!-- | [**🤗 Model**](TBD) -->
