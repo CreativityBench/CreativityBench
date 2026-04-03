@@ -5,7 +5,7 @@
     style="height: 2em; margin-top: 0.1em;"
   />
   <span>
-    CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
+    CreativityBench: Evaluating Agent Creative Reasoning via </br> Affordance-Based Tool Repurposing
   </span>
 </h1>
 
