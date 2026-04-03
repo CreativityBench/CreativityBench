@@ -41,10 +41,9 @@ The current requirements cover the code in `annotation/`, `task_creation/`, and 
 
 ## 📦 Data
 
-Before using the released benchmark data, first download the full dataset from these two links:
+Before using the released benchmark data, first download the full dataset from the link below:
 
-1. Version 1: [🔗 Download](https://drive.google.com/file/d/1NBNDQvhAUm5KT7hWdRR26MEJcJXHlsFT/view?usp=sharing)
-2. Version 2: [🔗 Download](https://drive.google.com/file/d/1mIIKIpjMkpdvsnwWTOZGW_89exKxzkal/view?usp=sharing)
+- Newest Version: [🔗 Download](https://drive.google.com/file/d/1nQ1p2S4dxTBVZfAvlCW7YPLxztRtPnke/view?usp=sharing)
 
 This repository now only includes a sample task file by default:
 
