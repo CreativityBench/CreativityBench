@@ -1,9 +1,5 @@
-<div style="display: flex; align-items: flex-start; gap: 0.4em;">
-  <img
-    src="assets/logo.jpg"
-    alt="CreativityBench logo"
-    style="height: 4em; flex: 0 0 auto; margin-top: 0.2em;"
-  />
+<div style="display: grid; grid-template-columns: 50px 1fr; column-gap: 12px; align-items: start;">
+  <img src="assets/logo.jpg" alt="CreativityBench logo" style="width: 60px; margin-top: 6px;">
   <h1 style="margin: 0; line-height: 1.15;">
     CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
   </h1>
