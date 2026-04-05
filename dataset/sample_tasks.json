@@ -32,40 +32,30 @@
           "attribute": [
             [
               "surface: slightly textured with intermittent metallic sheen",
-              "physical",
-              "text",
-              "Texture is primarily tactile; sheen alone doesn’t fully convey friction/feel"
+              "physical"
             ],
             [
               "thickness: thin",
               "physical",
-              "visual",
-              "Thin thread/fabric build is visually apparent at close range"
+              "visual"
             ],
             [
               "weight: light",
-              "physical",
-              "text",
-              "Lightness is a handling property not certain from an image"
+              "physical"
             ],
             [
               "moisture: slightly wet",
-              "state",
-              "text",
-              "Wetness level is not reliably visible without context; needs description"
+              "state"
             ],
             [
               "local_features: uniform, highly regular yarns",
-              "physical",
-              "visual",
-              "Regular yarn spacing can be seen and implies consistent wiping contact points"
+              "physical"
             ]
           ],
           "affordance": "wipe and lift small amounts of moisture or residue from a surface (light cleaning/blotting)",
           "level": "Emergency 1 (Using the warp yarn system as a wiper is plausible and easy, but it’s not the primary purpose of warp yarns and may be avoided to protect the textile; still, people commonly improvise with cloth in a pinch.)",
           "recipient_condition": "smooth to mildly textured surfaces; residue that is thin-liquid or light film; not heavily abrasive or sharp; area small to medium",
-          "example_recipient": "a dining table spot with spilled water, a glass tumbler with condensation, a ceramic plate edge with a small drip, a phone screen with light smudging (gentle wipe only)",
-          "failure_case": "Fails if the warp area is inaccessible (blocked by folds), if the recipient has heavy grease or sticky residue (may smear), if the surface is sharp/abrasive (can snag fine yarns), or if a large-volume spill needs high absorbency quickly (slightly wet yarns have limited remaining capacity)."
+          "example_recipient": "a dining table spot with spilled water, a glass tumbler with condensation, a ceramic plate edge with a small drip, a phone screen with light smudging (gentle wipe only)"
         }
       }
     ],

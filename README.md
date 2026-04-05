@@ -49,11 +49,11 @@ The current requirements cover the code in `annotation/`, `task_creation/`, and 
 
 ## 📦 Data
 
-Before using the released benchmark data, first download the full dataset from the link below:
+Before using the released benchmark data, first download the dataset from the link below:
 
-- Newest Version: [🔗 Download](https://drive.google.com/file/d/1nQ1p2S4dxTBVZfAvlCW7YPLxztRtPnke/view?usp=sharing)
+- Newest Version: [🔗 Download](https://drive.google.com/file/d/1C7PqRknVjdj4OBpVPT22Opo167lHNyjs/view?usp=sharing)
 
-This repository now only includes a sample task file by default:
+The link above leads to our release of the first batch of 3.3K tasks. This repository now only includes a sample task file by default:
 
 - `dataset/sample_tasks.json`
 
@@ -156,7 +156,7 @@ export VLLM_BASE_URL="http://localhost:8000/v1"
 ## 📚 Citation
 ```
 @article{qian2026creativitybench,
-  title={CreativityBench: Evaluating Creative Reasoning via Affordance-Based Tool Repurposing},
+  title={CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing},
   author={Qian, Cheng and Ha, Hyeonjeong and Liu, Jiayu and He, Bingxiang and Kim, Jeonghwan and Liu, Jiateng and Li, Bingxuan and Tiwari, Aditi and Dalal, Dwip and Wang, Zhenhailong and Chen, Xiusi and Namazifar, Mahdi and Li, Yunzhu and Ji, Heng},
   journal={arXiv preprint arXiv:XXX},
   year={2026}

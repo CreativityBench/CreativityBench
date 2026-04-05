@@ -12,3 +12,6 @@ annotation/outputs
 task_creation/outputs
 evaluation/outputs
 evaluation/judged_outputs
+
+clean4hf/
+DATASET_CARD.md
