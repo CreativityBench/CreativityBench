@@ -6,7 +6,7 @@
 
 # CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
 
-[**📊 Dataset**](https://drive.google.com/file/d/1nQ1p2S4dxTBVZfAvlCW7YPLxztRtPnke/view?usp=sharing) | [**📖 Paper**](TBD) 
+[**📊 Dataset**](https://drive.google.com/file/d/1nQ1p2S4dxTBVZfAvlCW7YPLxztRtPnke/view?usp=sharing) | [**📖 Paper**](https://arxiv.org/pdf/2605.02910) 
 <!-- | [**🤗 Model**](TBD) -->
 
 ![CreativityBench](assets/intro.png)
