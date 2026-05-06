@@ -157,8 +157,8 @@ export VLLM_BASE_URL="http://localhost:8000/v1"
 ```
 @article{qian2026creativitybench,
   title={CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing},
-  author={Qian, Cheng and Ha, Hyeonjeong and Liu, Jiayu and He, Bingxiang and Kim, Jeonghwan and Liu, Jiateng and Li, Bingxuan and Tiwari, Aditi and Dalal, Dwip and Wang, Zhenhailong and Chen, Xiusi and Namazifar, Mahdi and Li, Yunzhu and Ji, Heng},
-  journal={arXiv preprint arXiv:XXX},
+  author={Qian, Cheng and Ha, Hyeonjeong and Liu, Jiayu and Kim, Jeonghwan and Liu, Jiateng and Li, Bingxuan and Tiwari, Aditi and Dalal, Dwip and Wang, Zhenhailong and Chen, Xiusi and Namazifar, Mahdi and Li, Yunzhu and Ji, Heng},
+  journal={arXiv preprint arXiv:2605.02910},
   year={2026}
 }
 ```
